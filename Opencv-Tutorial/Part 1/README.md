@@ -1,3 +1,5 @@
+##[lecture01](https://github.com/KaiyueSun98/Visual-Recognition-Robotic-Arm/blob/main/Opencv-Tutorial/Part%201/lecture01.ipynb)
+
 ### Learning objectives
 
 - Reading an image
